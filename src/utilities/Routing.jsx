@@ -4,7 +4,7 @@ import Favourite from "../pages/Favourite";
 const Routing = () => {
   return (
     <Routes>
-      <Route path={"/"} element={<Home />}></Route>
+      <Route path={"/Movie-Card"} element={<Home />}></Route>
       <Route path={"/favourite"} element={<Favourite />}></Route>
     </Routes>
   );
