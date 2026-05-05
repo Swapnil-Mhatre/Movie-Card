@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../assets/css/favourite.css";
+import "../assets/css/Favourite.css";
 import { useContext, useState } from "react";
 import MovieCard from "../components/MovieCard";
 import { GlobalContext } from "../context/context";
